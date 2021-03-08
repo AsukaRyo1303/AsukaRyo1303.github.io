@@ -1,0 +1,8 @@
+User-agent: googlebot
+Allow: /
+
+# Block the entire site from anothercrawler.
+User-agent: anothercrawler
+Disallow: /
+
+Sitemap:  https://asukaryo1303.github.io/sitemap.xml
